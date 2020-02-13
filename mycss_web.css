@@ -1,5 +1,4 @@
 /* Desktop Styles */
-@media only screen and (min-width: 961px) {
 
   #Menu {
     list-style-type: none;
@@ -88,8 +87,7 @@
   ul {
    list-style-type: square;
   }
-  
+
   #DiplomaList {
     color: gray;
   }
-}
