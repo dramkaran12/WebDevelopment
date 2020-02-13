@@ -1,5 +1,5 @@
 /* Tablet Styles */
-@media only screen and max-device-width:960px {
+@media only screen and (min-device-width: 401px) and (max-device-width: 960px) {
 
   #Menu {
     list-style-type: none;

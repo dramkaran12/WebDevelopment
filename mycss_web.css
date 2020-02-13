@@ -1,5 +1,5 @@
 /* Desktop Styles */
-@media only screen and min-device-width: 961px {
+@media only screen and (min-width: 961px) {
 
   #Menu {
     list-style-type: none;
